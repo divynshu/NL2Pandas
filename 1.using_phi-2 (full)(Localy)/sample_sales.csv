@@ -1,0 +1,6 @@
+date,region,sales,profit,category
+2025-01-01,North,1000,200,A
+2025-01-02,South,1500,300,B
+2025-01-03,East,2000,500,A
+2025-01-04,West,1300,250,C
+2025-01-05,North,1700,400,B
