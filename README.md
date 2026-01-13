@@ -106,7 +106,7 @@ We focus on:
 * **Use Code LLaMA 7B or phi-2 full**: heavy GPU models for multi-step pipelines or production-ready reasoning.
 * **Use codegen-small**: fastest offline baseline for simple Pandas tasks.
 
-> **Goal for Day 1:** Establish a **baseline NL → Pandas workflow** using offline and API models. Later, you can **quantize, fine-tune, and optimize** for small, production-ready tasks.
+> **Goal :** Establish a **baseline NL → Pandas workflow** using offline and API models. Later, you can **quantize, fine-tune, and optimize** for small, production-ready tasks.
 
 ---
 ### Goal: Automate Data Analysis
